@@ -1,0 +1,10 @@
+Bracket Pair Colorizer 2             括号插件
+Markdown Shortcuts                 MD预览
+Path Autocomplete                   路径联想补全
+Turbo Console Log                    快捷键console.log
+VSCode Great Icons                  vscode文件图标
+Prettier - Code formatter          代码格式
+Beautify                                    代码格式
+Color Highlight                         css色块显示
+ES7 React/Redux/GraphQL/React-Native snippets            react
+Vetur                                        Vue
